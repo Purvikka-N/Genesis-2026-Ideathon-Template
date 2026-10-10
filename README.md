@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I016
 ### Team Details
-#### **Team Name** <<CODEHOLICS>> <br/>
+#### **CODEHOLICS <<>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Hosteller/Dayscholar |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
